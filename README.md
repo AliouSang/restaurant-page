@@ -3,7 +3,7 @@
 A dynamic, single-page restaurant web application built using pure JavaScript DOM manipulation, ES6 modules, and Webpack. Developed as part of **The Odin Project** JavaScript curriculum.
 
 ## 🚀 Live Demo
-[View Live Preview](https://github.com/AliouSang/restaurant-page)
+[View Live Preview](https://aliousang.github.io/restaurant-page/)
 
 ---
 
